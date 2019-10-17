@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d596b1bf084cf4c4a8f16ad657a2a0e4
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 90838c5b3a794c342a5f8e1dc525c90f
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 668b7d3b2a27aff43a9ae0cf2808b123
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: a7aab5bac5e9a3e489f91e5023890a44
+  - enabled: 1
+    path: Assets/Scenes/EasterEgg.unity
+    guid: 8950b2abe3e477b4396a182c706a3f0c
+  - enabled: 1
+    path: Assets/Scenes/Meme.unity
+    guid: fc6298d5ed0154247aafd909ed9d06ce
+  - enabled: 1
+    path: Assets/Scenes/Death.unity
+    guid: a089a2d0233f7de47b52e99b2950bca6
+  - enabled: 1
+    path: Assets/Scenes/Troll.unity
+    guid: 758d06d5898bfdc499a3dd0e2ad5ccc3
+  m_configObjects: {}
